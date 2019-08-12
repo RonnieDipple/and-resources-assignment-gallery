@@ -126,4 +126,4 @@ This project will have you build a gallery app which will display drawable resou
 6. Open `res\values\strings.xml` and see all the string you've added.
 7. Right click the `strings.xml` file in the sidebar and click "Open Translations Editor"
 8. In the translations editor, click the globe icon in the top left and select another language
-9. Translate all strings into that language.... just kidding, but understand how and where those translations would be added.
+9. Translate all strings into that language.... just kidding, but understand how and where those translations would be added..
